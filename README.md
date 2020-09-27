@@ -20,7 +20,7 @@
       
 ---
 
-#### I have made an intersting website for this project.
+### I have made an intersting website for this project.
 
 Have a look at it here : https://sites.google.com/view/201901412-sc205-project/home
 
