@@ -18,9 +18,10 @@
   (f).So, when you log-in to your account, and write the password, the application make the hash using fixed algorithm and matchs to 
       the saved hash. If it matches correctly then only you got enter into your account.
       
+
 ---
 
-### => I have made an intersting website for this project.
+### > I have made an intersting website for this project.
 
 Have a look at it here : https://sites.google.com/view/201901412-sc205-project/home
 
